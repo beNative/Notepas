@@ -1,5 +1,5 @@
 # Notepas
-A text editor.
+A portable multi-platform text editor with small footprint.
 
 # Introduction
 
