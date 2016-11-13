@@ -3,7 +3,7 @@ A portable multi-platform text editor with small footprint.
 
 This is the place where new [releases](https://github.com/beNative/Notepas/releases) will be posted. 
 
-The sources are maintained on this location:
+The sources are maintained on this location, together with all dependencies needed to make a new build:
 
 http://github.com/beNative/lazarus/tree/master/projects/notepas
 
