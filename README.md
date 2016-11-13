@@ -1,7 +1,7 @@
 # Notepas
 A portable multi-platform text editor with small footprint.
 
-This is the place where new [https://github.com/beNative/Notepas/releases|releases] will be posted. 
+This is the place where new [releases](https://github.com/beNative/Notepas/releases) will be posted. 
 
 The sources are maintained on this location:
 
