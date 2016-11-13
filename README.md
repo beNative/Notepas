@@ -1,6 +1,9 @@
 # Notepas
 A portable multi-platform text editor with small footprint.
 
+This is the place where new releases will be posted. The sources are maintained on this location:
+http://github.com/beNative/lazarus/tree/master/projects/notepas
+
 # Introduction
 
 Notepas is a fast portable native multiplatform text editor written in Lazarus and can be compiled for multiple platforms and widget sets using the advanced native Free Pascal Compiler. Aimed towards developers it is equipped with some functions usually not found in other text editors and introduces a couple of new exclusive features:
