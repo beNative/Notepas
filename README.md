@@ -48,7 +48,7 @@ Notepas is a fast portable native multiplatform text editor written in Lazarus a
 * Single native and fast executable, no external libraries required.
 * Portable, as settings are stored in a single XML-file.
 * Syntax highlighting.
-* Code folding depending on syntax (currently for XML, HTML and Pascal code but will be extended to support all highlighters).
+* Code folding depending on syntax (currently for XML, HTML and Pascal code but will be extended to support other highlighters).
 * Multi-line comment folding.
 * Selection folding.
 * Region folding.
