@@ -17,6 +17,32 @@ Notepas is a fast portable native multiplatform text editor written in Lazarus a
 * **Common Syntax coloring rules** for all registered highlighters.
 * **Advanced docking** support.
 
+# Main features
+
+## Code filter
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.CodeFilter.png)
+
+## Multi-caret editing
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.MultiCaret.png)
+
+## Sync edit
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.SyncEdit.png)
+
+## Align selection
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.AlignSelection.png)
+
+## Docking
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.DockingViews.png)
+
+## Search
+
+![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.FindInAllViews.png)
+
 # Other features:
 
 * Single native and fast executable, no external libraries required.
