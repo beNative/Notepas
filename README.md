@@ -27,7 +27,7 @@ Notepas is a fast portable native multiplatform text editor written in Lazarus a
 
 ![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.MultiCaret.png)
 
-## Sync edit
+## Synchronized editing
 
 ![Notepas](https://github.com/beNative/lazarus/blob/master/projects/notepas/images/Notepas.SyncEdit.png)
 
@@ -52,7 +52,6 @@ Notepas is a fast portable native multiplatform text editor written in Lazarus a
 * Multi-line comment folding.
 * Selection folding.
 * Region folding.
-* Synchronized edit.
 * Line modification indicators.
 * Line numbers display.
 * Smart searching of the word at the caret position (CTRL-ALT-UP/CTRL-ALT-DOWN)
@@ -72,15 +71,18 @@ Notepas is a fast portable native multiplatform text editor written in Lazarus a
 * Zoom.
 * Localization support using simple text files that are loaded by the application at runtime (i18n using GetText).
 * Monitor external changes.
-* (Experimental) Multi-caret support.
-* (Experimental) Bookmark support.
-* (Experimental) support for both internal and external code formatters.
-* (Experimental) support for Pascal scripting.
-* (Experimental) Hex editor.
-* (Experimental) HTML viewer.
-* (Experimental) structure viewer.
-* (Experimental) support for multiple views on the same source buffer.
-* (Experimental) support for keyboard macros.
-* A lot of other unique features will be added soon so stay tuned as the code evolves. For now only preview builds for the Windows, Linux and MacOS X (Darwin) platforms are available, but native FreeBSD and Solaris builds are in the pipeline.
+
+## Planned features
+
+* Bookmark support.
+* Support for both internal and external code formatters.
+* Support for Pascal/Python scripting.
+* Hex editor.
+* HTML viewer.
+* Structure viewer.
+* Support for multiple views on the same source buffer.
+* Support for keyboard macros.
+
+A lot of other unique features will be added soon so stay tuned as the code evolves. For now only preview builds for the Windows, Linux and MacOS X (Darwin) platforms are available, but native FreeBSD and Solaris builds are in the pipeline.
 
 Notepas is a work-in-progress. If you have bug reports or suggestions for new features please submit a new issue.  Experimental features are activated in debug mode and provide a preliminary look to what's currently cooking in the kitchen.
